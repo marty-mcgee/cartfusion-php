@@ -1,16 +1,16 @@
-# CartFusion PHP/MySQL web-based ecommerce application
+# CartFusion PHP/MySQL web-based ecommerce
 
 A complete ecommerce solution with Paypal payment gateway integration
 
 ## Installation (Database Setup)
 
-1. Go to /admin/inc/config.php
-2. Change time zone
+1. Go to `/admin/inc/config.php`
+2. Change to your time zone
 3. Change MySQL database parameters according to your settings
-4. Install the cartfusion_php.sql database schema using PHPMyAdmin import
+4. Install the `cartfusion_php.sql` database schema using PHPMyAdmin import
 5. Notes:
  - Check Database Settings file for Username + Password
- - Admin User: "admin" | Admin Password: "1234"
+ - Admin User: `admin` | Admin Password: `1234`
 
 ## Product Management
 
