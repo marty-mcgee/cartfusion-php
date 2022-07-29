@@ -4,13 +4,13 @@ A complete ecommerce solution with Paypal payment gateway integration
 
 ## Installation (Database Setup)
 
-1. Go to `/admin/inc/config.php`
-2. Change to your time zone
-3. Change MySQL database parameters according to your settings
-4. Install the `/admin/inc/cartfusion_php.sql` database schema using PHPMyAdmin import
+1. Open `/admin/inc/config.php` file in a text editor.
+2. Change to your time zone.
+3. Change MySQL database parameters according to your settings.
+4. Install the `/admin/inc/cartfusion_php.sql` database schema using PHPMyAdmin import.
 5. Notes:
- - Check Database Schema file for Username + Password
- - Admin User: `admin` | Admin Password: `1234`
+ - Check the database schema file for (encrypted) username + password.
+ - Default Admin Username: `admin` | Admin Password: `1234`
 
 ## Product Management
 
